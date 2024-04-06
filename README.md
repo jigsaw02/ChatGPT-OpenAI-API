@@ -1,5 +1,5 @@
-## ChatGPT全网最低价的OpenAI GPT-4-32K、GPT-3.5 API
-The lowest-priced OpenAI GPT-4-32K And GPT-3.5 API
+## 全网最低价的OpenAI GPT-4 和Anthropic Claude 3 API 接口
+The lowest-priced OpenAI GPT-4 and Anthropic Claude 3 API interfaces on the Internet
  
 
 ## 平台地址 (Platform URL)
