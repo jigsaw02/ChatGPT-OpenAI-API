@@ -5,7 +5,7 @@ The lowest-priced OpenAI GPT-4 and Anthropic Claude 3 API interfaces on the Inte
 ## 平台地址 (Platform URL)
 https://mj.chatgptten.us/
 
-注册送$0.2，点Star后提lssues留下用户名再送$1，支持USDT充值。
+注册送$0.25，点Star后提lssues留下用户名再送$0.25，支持在线充值。
 
 Register to get $0.2, click 'Star' and then mention 'lssues' to leave your username and you will get $1. USDT recharge is supported.
 
