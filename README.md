@@ -3,7 +3,7 @@ The lowest-priced OpenAI GPT-4 and Anthropic Claude 3 API interfaces on the Inte
  
 
 ## 平台地址 (Platform URL)
-https://www.gptapi.us/
+https://mj.chatgptten.us/
 
 注册送$0.2，点Star后提lssues留下用户名再送$1，支持USDT充值。
 
@@ -36,6 +36,6 @@ Please change the official API interface domain name api.openai.com to api.gptap
 
 
 ## APIKEY获取 (APIKEY Get)
-登录后访问 https://www.gptapi.us/token 令牌-添加新的令牌，令牌额度设置每500000等于$1，添加成功后即可点击复制APIKEY，设为无限则不会更新令牌已用额度，您也可以点击聊天按钮进入ChatGPT-Next-Web直接使用，ChatGPT-Next-Web默认自动生成标题，会出现额外的token消耗，在设置里面可关闭。
+登录后访问 https://mj.chatgptten.us/token 令牌-添加新的令牌，令牌额度设置每500000等于$1，添加成功后即可点击复制APIKEY，设为无限则不会更新令牌已用额度，您也可以点击聊天按钮进入ChatGPT-Next-Web直接使用，ChatGPT-Next-Web默认自动生成标题，会出现额外的token消耗，在设置里面可关闭。
 
-After logging in, visit https://www.gptapi.us/token Token - Add a new token. The token limit is equal to $1 for every 500,000. After the addition is successful, you can click to copy APIKEY. If it is set to unlimited, the token will not be updated. If the quota has been used, you can also click the chat button to enter ChatGPT-Next-Web to use it directly. ChatGPT-Next-Web automatically generates a title by default, and additional token consumption will occur. It can be turned off in the settings.
+After logging in, visit https://mj.chatgptten.us/token Token - Add a new token. The token limit is equal to $1 for every 500,000. After the addition is successful, you can click to copy APIKEY. If it is set to unlimited, the token will not be updated. If the quota has been used, you can also click the chat button to enter ChatGPT-Next-Web to use it directly. ChatGPT-Next-Web automatically generates a title by default, and additional token consumption will occur. It can be turned off in the settings.
