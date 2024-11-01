@@ -30,9 +30,9 @@ The 1106 series model supports tool_calls and function_call, the 0613 series mod
 
 gpt-3.5-turbo-16k and gpt-4, gpt-4-32k Chinese have ethics review
 ## 接口地址 (Interface address)
-请把官方的API接口域名 api.openai.com 更换为 api.gptapi.us 即 https://api.gptapi.us/v1/chat/completions 请求参数同OpenAI官网API文档一致 如果遇到524超时错误，可更换为备用接口域名 m.gptapi.us（无CDN）
+请把官方的API接口域名 api.openai.com 更换为 mj.chatgptten 即 https://mj.chatgptten/v1/chat/completions 请求参数同OpenAI官网API文档一致 如果遇到524超时错误，可更换为备用接口域名 m.gptapi.us（无CDN）
 
-Please change the official API interface domain name api.openai.com to api.gptapi.us, that is, https://api.gptapi.us/v1/chat/completions. The request parameters are consistent with the OpenAI official website API document. If you encounter a 524 timeout error, Can be replaced by the backup interface domain name m.gptapi.us (no CDN)
+Please change the official API interface domain name api.openai.com to mj.chatgptten, that is, https://mj.chatgptten/v1/chat/completions. The request parameters are consistent with the OpenAI official website API document. If you encounter a 524 timeout error, Can be replaced by the backup interface domain name m.gptapi.us (no CDN)
 
 
 ## APIKEY获取 (APIKEY Get)
